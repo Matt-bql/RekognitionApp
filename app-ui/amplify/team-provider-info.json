@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rekogapp-dev-70714-authRole",
+      "UnauthRoleArn": "arn:aws:iam::428532364871:role/amplify-rekogapp-dev-70714-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::428532364871:role/amplify-rekogapp-dev-70714-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-rekogapp-dev-70714-deployment",
+      "UnauthRoleName": "amplify-rekogapp-dev-70714-unauthRole",
+      "StackName": "amplify-rekogapp-dev-70714",
+      "StackId": "arn:aws:cloudformation:us-east-2:428532364871:stack/amplify-rekogapp-dev-70714/887cf170-8ff2-11ec-b75f-0613401afc1e",
+      "AmplifyAppId": "d274zb51kk12hf"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d274zb51kk12hf",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "rekogapp3d46bbad": {}
+      },
+      "function": {
+        "S3Triggera36d19a9": {
+          "deploymentBucketName": "amplify-rekogapp-dev-70714-deployment",
+          "s3Key": "amplify-builds/S3Triggera36d19a9-386237434353694f5334-build.zip"
+        }
+      }
+    }
+  }
+}
